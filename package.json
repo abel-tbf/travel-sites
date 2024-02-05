@@ -7,9 +7,12 @@
   },
   "scripts": {
     "dev": "parcel app/index.html",
+    "sync": "node sync.js",
+    "devsync": "npm run dev & npm run sync",
     "build": "parcel build app/index.html"
   },
   "devDependencies": {
+    "browser-sync": "^3.0.2",
     "parcel": "^2.11.0",
     "postcss-import": "^16.0.0",
     "postcss-nested": "^6.0.1",
