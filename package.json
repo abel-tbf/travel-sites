@@ -15,6 +15,7 @@
     "browser-sync": "^3.0.2",
     "parcel": "^2.11.0",
     "postcss-import": "^16.0.0",
+    "postcss-mixins": "^9.0.4",
     "postcss-nested": "^6.0.1",
     "postcss-simple-vars": "^7.0.1"
   }
