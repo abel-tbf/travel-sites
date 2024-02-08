@@ -3,6 +3,7 @@
     "postcss-simple-vars": {},
     "postcss-nested": {},
     "postcss-import": {},
-    "postcss-mixins": {}
+    "postcss-mixins": {},
+    "postcss-hexrgba": {}
   }
 }
