@@ -20,5 +20,6 @@
     "postcss-nested": "^6.0.1",
     "postcss-simple-vars": "^7.0.1",
     "svg-sprite": "^2.0.2"
-  }
+  },
+  "browserslist": "> 0.5%, last 2 versions, not dead"
 }
